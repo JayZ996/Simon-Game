@@ -58,3 +58,10 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+@media (max-width: 1028px){
+      .container{
+          width: auto;
+          padding-top: 40%;
+      }
+  }
