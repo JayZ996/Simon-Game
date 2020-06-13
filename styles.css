@@ -59,7 +59,7 @@ body {
   background-color: grey;
 }
 
-@media (max-width: 800px){
+@media (max-width: 1028px){
       .container{
           width: auto;
           padding-top: 40%;
